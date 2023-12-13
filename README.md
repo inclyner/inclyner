@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Francisco Carvalho</h1>
 <h3 align="center">Computer Science Engineering student with a zest for understanding the mechanics of the world. Adept at problem-solving and coding, I'm driven to explore the world around me.</h3>
+<img align="right" alt="gif" width="400" src="https://i.imgur.com/wP4t3Rt.gif"></img>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inclyner&label=Profile%20views&color=0e75b6&style=flat" alt="inclyner" /> </p>
 
 - 📫 How to reach me **Carvalho.Francisco@protonmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/francisco-andrade-carvalho/overlay/1635493622629/single-media-viewer/?profileId=ACoAADTdTjQBgsnREIRcUrLfvRgh4c-D6OBFhYg](https://www.linkedin.com/in/francisco-andrade-carvalho/overlay/1635493622629/single-media-viewer/?profileId=ACoAADTdTjQBgsnREIRcUrLfvRgh4c-D6OBFhYg)
+- 📄 Know about my experiences [curriculum vitae](https://www.linkedin.com/in/francisco-andrade-carvalho/overlay/1635493622629/single-media-viewer/?profileId=ACoAADTdTjQBgsnREIRcUrLfvRgh4c-D6OBFhYg)
 
 - ⚡ Fun fact **I consider mastering the art of Googling to be an essential skill in the modern tech toolkit!**
 
