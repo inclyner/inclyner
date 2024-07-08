@@ -1,6 +1,5 @@
-<h1 align="center">Hi , I'm Francisco Carvalho</h1>
+<h1 align="center">Hi ![wave](https://github.com/inclyner/inclyner/assets/84443911/cc452a93-1e27-4d3e-998d-7656546fea1f), I'm Francisco Carvalho</h1>
 
-![wave](https://github.com/inclyner/inclyner/assets/84443911/cc452a93-1e27-4d3e-998d-7656546fea1f)
 
 <h3 align="center">Computer Science Engineering student with a zest for understanding the mechanics of the world. Adept at problem-solving and coding, I'm driven to explore the world around me.</h3>
 <img align="right" alt="gif" width="400" src="https://i.imgur.com/wP4t3Rt.gif"></img>
