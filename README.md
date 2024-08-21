@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Carvalho.Francisco@protonmail.com**
 
-- 📄 Know about my experiences [curriculum vitae](https://www.linkedin.com/in/francisco-andrade-carvalho/overlay/1635493622629/single-media-viewer/?profileId=ACoAADTdTjQBgsnREIRcUrLfvRgh4c-D6OBFhYg)
+- 📄 Know about my experiences [curriculum vitae](https://www.linkedin.com/in/francisco-andrade-carvalho/overlay/1722969499496/single-media-viewer/?profileId=ACoAADTdTjQBgsnREIRcUrLfvRgh4c-D6OBFhYg)
 
 - ⚡ Fun fact **I consider mastering the art of Googling to be an essential skill in the modern tech toolkit!**
 
