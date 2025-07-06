@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/inclyner/inclyner/assets/84443911/cc452a93-1e27-4d3e-998d-7656546fea1f" width="20 >, I'm Francisco Carvalho</h1>
+<h1 align="center">Hi <img src="https://github.com/inclyner/inclyner/assets/84443911/cc452a93-1e27-4d3e-998d-7656546fea1f" width="10" >, I'm Francisco Carvalho</h1>
 
 
 <h3 align="center">Computer Science Engineering student with a zest for understanding the mechanics of the world. Adept at problem-solving and coding, I'm driven to explore the world around me.</h3>
